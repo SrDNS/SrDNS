@@ -1,7 +1,11 @@
 <div align="center">
   <picture><img src="images/about_me.gif" width = 55px align="center"></picture> 
   <h3>$whoami</h3>
-  <hr>
+</div>
+
+---
+
+<div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=Linkedin&logoColor=white&labelColor=%230A66C2&link=https://www.linkedin.com/in/christos-sardianos)](https://www.linkedin.com/in/christos-sardianos)
   [![Scholar Badge](https://img.shields.io/badge/-Google_Scholar-white?logo=googlescholar&logoColor=4285F4&link=https://scholar.google.com/citations?user=bGdLOSgAAAAJ&hl=en)](https://scholar.google.com/citations?user=bGdLOSgAAAAJ&hl=en)
