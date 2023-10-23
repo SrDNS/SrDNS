@@ -1,8 +1,9 @@
 <div align="center">
   <picture><img src="images/about_me.gif" width = 55px align="center"></picture> 
   <h3>$whoami</hr>
-  <img src="images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
+  <!-- <img src="images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%> -->
 
+---
 
   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230A66C2?logo=Linkedin&logoColor=white&labelColor=%230A66C2&link=https://www.linkedin.com/in/christos-sardianos)](https://www.linkedin.com/in/christos-sardianos)
   [![Scholar Badge](https://img.shields.io/badge/-Google_Scholar-white?logo=googlescholar&logoColor=4285F4&link=https://scholar.google.com/citations?user=bGdLOSgAAAAJ&hl=en)](https://scholar.google.com/citations?user=bGdLOSgAAAAJ&hl=en)
@@ -20,7 +21,7 @@
   [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+---
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BCEB&random=false&width=565&duration=5000&lines=I'm+not+anti-social%2C+I'm+just+not+user-friendly)](https://git.io/typing-svg)
 
 </div>
@@ -90,7 +91,9 @@ if __name__ == '__main__':
 
 </div>
 
-<img src="images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
+----
+
+<!-- <img src="images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%> -->
 
 ![last updated :22.Oct.2023](https://img.shields.io/badge/Last_updated-22.Oct.2023-informational)
 <!-- ![Python application](https://github.com/SrDNS/SrDNS/workflows/Python%20application/badge.svg?branch=master&?event=push) -->
