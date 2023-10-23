@@ -1,6 +1,6 @@
 <div align="center">
   <picture><img src="images/about_me.gif" width = 55px align="center"></picture> 
-  <h3>$whoami</hr>
+  <h3>$whoami</h3>
   <!-- <img src="images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%> -->
 
 ---
