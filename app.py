@@ -19,17 +19,18 @@ def get_latest_posts(max_posts=5):
     return data[0:max_posts]
 
 
-def render_readme(data):
-    template = env.get_template("README.template")
-    render = template.render(**data)
+def render_readme():
+    template = env.get_template("README.md")
+    render = template.render()
     with open("README.md", "w") as f:
         f.write(render)
 
 
 def main():
-    latest_posts = get_latest_posts(MAX_POSTS)
-    data = {"latest_post": latest_posts}
-    render_readme(data)
+    # latest_posts = get_latest_posts(MAX_POSTS)
+    # data = {"latest_post": latest_posts}
+    # render_readme(data)
+    render_readme()
 
 
 if __name__ == "__main__":
