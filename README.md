@@ -92,5 +92,5 @@ if __name__ == '__main__':
 
 <img src="images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
 
-![Python application](https://github.com/SrDNS/SrDNS/workflows/Python%20application/badge.svg?branch=master&event=schedule)
+![Python application](https://github.com/SrDNS/SrDNS/workflows/Python%20application/badge.svg?branch=master&?event=push)
 ![last updated :22.Oct.2023](https://img.shields.io/badge/Last_updated-22.Oct.2023-informational)
