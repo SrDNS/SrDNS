@@ -86,7 +86,7 @@ if __name__ == '__main__':
 
 <div align="center">
 
-  [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&animation=grow&quote=The%20right%20way,%20is%20the%20uphill%20(i.e.%20hard%20way).&author=Nikos%20Kazantzakis)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&animation=grow&quote=The%20right%20way,%20is%20the%20hard%20way).&author=Nikos%20Kazantzakis)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
