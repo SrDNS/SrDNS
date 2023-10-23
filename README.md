@@ -39,43 +39,43 @@
 ```python
 class SrDNS():
     
-  def __init__(self):
-    self.name = "Christos"
-    self.username = "Sardianos"
-    self.degrees = ["PhD", "MSc", "BSc"]
-    self.occupation = ["Research Associate", "Data Science"]
-    self.location = "Athens, Greece"
-    self.website = "https://sardianos.dit.people.hua.gr/"
-    self.language_spoken = ["el_GR", "en_US"]
-    self.Research_interests = ["Machine Learning", "Data Mining", "AI", "Recommender Systems"]
-    self.skillset = {
-        "code": ["Python", "Java", "Javascript", "Typescript", "PHP", "HTML", "CSS", "Markdown", "LaTex"],
-        "databases": ["Oracle", "MySQL", "MongoDB", "PostgreSQL"],
-        "machineLearning": ["Scikit-learn", "TensorFlow", "Keras", "Weka"],
-        "frameworks": ["Flask", "Node", "ExpressJS", "CodeIgniter", "Angular", "React"],
-        "devOps": ["GitHub actions", "Linux", "Docker", "Nginx"]
-    }
-    self.tools = {
-        "Editors": ["VSCode", "SublimeText", "Neovim", "SourceTree"],
-        "Platforms": ["MacOS", "GNU/Linux", "Windows"],
-        "OtherTools": ["Git", "Photoshop"]
-    }
-    selft.teaching = {
-        "bsc": ["Databases"],
-        "msc": ["Data Management I"]
-    }
-    self.memberships = ["Institute of Electrical and Electronics Engineers"]
-    self.specializations = {
-        "cisco": ["CCNA", "CCNP"],
-        "microsoft": ["MCT", "MTA", "MMI", "MCAS"],
-        "Coursera": ["Data Mining, University of Illinois"]
-    }
-  
-  def __str__(self):
-      return f'{self.name} | {self.username}'
+    def __init__(self):
+        self.name = "Christos"
+        self.username = "Sardianos"
+        self.degrees = ["PhD", "MSc", "BSc"]
+        self.occupation = ["Research Associate", "Data Science"]
+        self.location = "Athens, Greece"
+        self.website = "https://sardianos.dit.people.hua.gr/"
+        self.language_spoken = ["el_GR", "en_US"]
+        self.Research_interests = ["Machine Learning", "Data Mining", "AI", "Recommender Systems"]
+        self.skillset = {
+            "code": ["Python", "Java", "Javascript", "Typescript", "PHP", "HTML", "CSS", "Markdown", "LaTex"],
+            "databases": ["Oracle", "MySQL", "MongoDB", "PostgreSQL"],
+            "machineLearning": ["Scikit-learn", "TensorFlow", "Keras", "Weka"],
+            "frameworks": ["Flask", "Node", "ExpressJS", "CodeIgniter", "Angular", "React"],
+            "devOps": ["GitHub actions", "Linux", "Docker", "Nginx"]
+        }
+        self.tools = {
+            "Editors": ["VSCode", "SublimeText", "Neovim", "SourceTree"],
+            "Platforms": ["MacOS", "GNU/Linux", "Windows"],
+            "OtherTools": ["Git", "Photoshop"]
+        }
+        selft.teaching = {
+            "bsc": ["Databases"],
+            "msc": ["Data Management I"]
+        }
+        self.memberships = ["Institute of Electrical and Electronics Engineers"]
+        self.specializations = {
+            "cisco": ["CCNA", "CCNP"],
+            "microsoft": ["MCT", "MTA", "MMI", "MCAS"],
+            "Coursera": ["Data Mining, University of Illinois"]
+        }
+    
+    def __str__(self):
+        return f'{self.name} | {self.username}'
 
-  def say_hi(self):
-      print("Thanks for dropping by!")
+    def say_hi(self):
+        print("Thanks for dropping by!")
 
 if __name__ == '__main__':
     me = SrDNS()
