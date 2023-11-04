@@ -29,7 +29,7 @@
   </samp>
   </br></br>
   <samp>
-    In 2023, I received my PhD in the area of “Recommender Systems with Real-life Applications”, and my main research interests are centered around Data Mining, Recommender Systems, Machine/Deep Learning, AI and knowledge extraction in general. In addition, I am also a certification addict and passionate about teaching, coding, developing my existing skills, expanding my knowledge on the field.
+    In 2023, I received my PhD in the area of “Recommender Systems with Real-life Applications”, and my main research interests are centered around Data Mining, Recommender Systems, Machine/Deep Learning, AI and knowledge extraction in general. In addition, I am also a certification addict and passionate about teaching, coding, developing my existing skills, and expanding my knowledge on the field.
   </samp>
 </p>
 
