@@ -16,7 +16,7 @@
   [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
   [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
   [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+  [![Licence: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ---
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BCEB&random=false&width=565&duration=5000&lines=I'm+not+anti-social%2C+I'm+just+not+user-friendly)](https://git.io/typing-svg)
