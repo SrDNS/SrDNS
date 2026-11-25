@@ -49,6 +49,7 @@ class SrDNS():
             "topic": "Recommender Systems with Real-Life Applications",
         }
         self.website = "https://sardianos.dit.people.hua.gr/"
+
         selft.teaching = {
             "bsc": [
                 "Databases",
@@ -60,6 +61,7 @@ class SrDNS():
                 "Information Systems"
             ]
         }
+
         self.research = {
             "Machine Learning": [
                 "GC–IMS sensor data analysis",
@@ -79,6 +81,7 @@ class SrDNS():
                 "Mining survey and job posting data for sustainability research",
             ],
         }
+
         self.skillset = {
             "languages": ["Python", "Java", "Javascript", "Typescript", "PHP", "HTML", "CSS", "Markdown", "LaTex"],
             "databases": ["Oracle", "MySQL", "MongoDB", "PostgreSQL"],
@@ -89,7 +92,9 @@ class SrDNS():
             "devOps": ["GitHub actions", "Linux", "Docker", "Nginx"]
             "editors": ["VSCode", "SublimeText", "Neovim", "SourceTree"],
         }
+
         self.memberships = ["Institute of Electrical and Electronics Engineers"]
+
         self.specializations = {
             "cisco": ["CCNA", "CCNP"],
             "microsoft": ["MCT", "MTA", "MMI", "MCAS"],
