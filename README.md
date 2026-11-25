@@ -39,27 +39,56 @@ class SrDNS():
     def __init__(self):
         self.name = "Christos"
         self.username = "Sardianos"
+        self.handle = "SrDNS"
         self.degrees = ["PhD", "MSc", "BSc"]
-        self.occupation = ["Research Associate", "Data Science"]
+        self.affiliation = "Harokopio University of Athens"
         self.location = "Athens, Greece"
-        self.website = "https://sardianos.dit.people.hua.gr/"
-        self.language_spoken = ["el_GR", "en_US"]
-        self.Research_interests = ["Machine Learning", "Data Mining", "AI", "Recommender Systems"]
-        self.skillset = {
-            "code": ["Python", "Java", "Javascript", "Typescript", "PHP", "HTML", "CSS", "Markdown", "LaTex"],
-            "databases": ["Oracle", "MySQL", "MongoDB", "PostgreSQL"],
-            "machineLearning": ["Scikit-learn", "TensorFlow", "Keras", "Weka"],
-            "frameworks": ["Flask", "Node", "ExpressJS", "CodeIgniter", "Angular", "React"],
-            "devOps": ["GitHub actions", "Linux", "Docker", "Nginx"]
+        self.roles = ["Postdoctoral Researcher", "Research Associate", "Data Science"]
+        self.phd = {
+            "year": 2023,
+            "topic": "Recommender Systems with Real-Life Applications",
         }
-        self.tools = {
-            "Editors": ["VSCode", "SublimeText", "Neovim", "SourceTree"],
-            "Platforms": ["MacOS", "GNU/Linux", "Windows"],
-            "OtherTools": ["Git", "Photoshop"]
+        self.website = "https://sardianos.dit.people.hua.gr/"
+        self.Research_interests = ["", "Data Mining", "AI", ""]
+        self.research = {
+            "Machine Learning": [
+                "GC–IMS sensor data analysis",
+                "Data mining for sustainability research",
+            ],
+            "Recommender Systems": [
+                "Multi-criteria and context-aware recommendation",
+                "Continual learning and user preference drift",
+            ],
+            "Trustworthy AI": [
+                "Robust machine learning and anomaly detection",
+                "Explainable AI",
+            ],
+            "Data Mining": [
+                "Classification, clustering, and pattern discovery",
+                "Feature extraction from high-dimensional sensor data",
+                "Mining survey and job posting data for sustainability research",
+            ],
         }
         selft.teaching = {
-            "bsc": ["Databases"],
-            "msc": ["Data Management I"]
+            "bsc": [
+                "Databases",
+                "Digital Skills"
+            ],
+            "msc": [
+                "Data Mining and Recommender Systems",
+                "Data Management I",
+                "Information Systems"
+            ]
+        }
+        self.skillset = {
+            "languages": ["Python", "Java", "Javascript", "Typescript", "PHP", "HTML", "CSS", "Markdown", "LaTex"],
+            "databases": ["Oracle", "MySQL", "MongoDB", "PostgreSQL"],
+            "machine_Learning": ["Scikit-learn", "PyTorch", "Keras", "Weka"],
+            "data_analysis": ["NumPy", "Pandas", "Jupyter"],
+            "workflow": ["Git", "Docker", "WezTerm"],
+            "frameworks": ["Flask", "Node", "ExpressJS", "CodeIgniter", "Angular", "React"],
+            "devOps": ["GitHub actions", "Linux", "Docker", "Nginx"]
+            "editors": ["VSCode", "SublimeText", "Neovim", "SourceTree"],
         }
         self.memberships = ["Institute of Electrical and Electronics Engineers"]
         self.specializations = {
@@ -69,27 +98,28 @@ class SrDNS():
         }
     
     def __str__(self):
-        return f'{self.name} | {self.username}'
+        return f"{self.name} {self.username} (@{self.handle})"
 
     def say_hi(self):
-        print("Thanks for dropping by!")
+        print(f"Hello world, I'm {self.name}. Thanks for dropping by!")
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     me = SrDNS()
     print(me)
     me.say_hi()
 ```
 
 
-<div align="center">
+<!-- <div align="center">
 
   [![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&animation=grow&quote=The%20right%20way,%20is%20the%20hard%20way.&author=Nikos%20Kazantzakis)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div>
+</div>-->
 
 ---
 
 <!-- <img src="images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%> -->
 
+![last updated :25.Nov.2026](https://img.shields.io/badge/Last_updated-25.Nov.2026-informational)
 ![last updated :22.Oct.2023](https://img.shields.io/badge/Last_updated-22.Oct.2023-informational)
 <!-- ![Python application](https://github.com/SrDNS/SrDNS/workflows/Python%20application/badge.svg?branch=master&?event=push) -->
