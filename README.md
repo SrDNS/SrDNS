@@ -49,7 +49,17 @@ class SrDNS():
             "topic": "Recommender Systems with Real-Life Applications",
         }
         self.website = "https://sardianos.dit.people.hua.gr/"
-        self.Research_interests = ["", "Data Mining", "AI", ""]
+        selft.teaching = {
+            "bsc": [
+                "Databases",
+                "Digital Skills"
+            ],
+            "msc": [
+                "Data Mining and Recommender Systems",
+                "Data Management I",
+                "Information Systems"
+            ]
+        }
         self.research = {
             "Machine Learning": [
                 "GC–IMS sensor data analysis",
@@ -68,17 +78,6 @@ class SrDNS():
                 "Feature extraction from high-dimensional sensor data",
                 "Mining survey and job posting data for sustainability research",
             ],
-        }
-        selft.teaching = {
-            "bsc": [
-                "Databases",
-                "Digital Skills"
-            ],
-            "msc": [
-                "Data Mining and Recommender Systems",
-                "Data Management I",
-                "Information Systems"
-            ]
         }
         self.skillset = {
             "languages": ["Python", "Java", "Javascript", "Typescript", "PHP", "HTML", "CSS", "Markdown", "LaTex"],
@@ -120,6 +119,6 @@ if __name__ == "__main__":
 
 <!-- <img src="images/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%> -->
 
-![last updated :25.Nov.2026](https://img.shields.io/badge/Last_updated-25.Nov.2026-informational)
+<!-- ![last updated :25.Nov.2026](https://img.shields.io/badge/Last_updated-25.Nov.2026-informational) -->
 ![last updated :22.Oct.2023](https://img.shields.io/badge/Last_updated-22.Oct.2023-informational)
 <!-- ![Python application](https://github.com/SrDNS/SrDNS/workflows/Python%20application/badge.svg?branch=master&?event=push) -->
