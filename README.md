@@ -19,7 +19,6 @@
   [![Licence: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ---
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BCEB&random=false&width=565&duration=5000&lines=I'm+not+anti-social%2C+I'm+just+not+user-friendly)](https://git.io/typing-svg)
 
 </div>
 
